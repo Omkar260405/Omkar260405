@@ -15,6 +15,10 @@
 <a href="https://www.linkedin.com/in/omkar-wadkar">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
+<a href="https://omkar-portfolio-9enk.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
